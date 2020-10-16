@@ -1,6 +1,13 @@
 # LAB 1: GEOPROCESSING IN ARCGIS
 Due: 23 OCT 2020
 
+Specifically, your repo should include: 
+•	file.flooding.py from part 2
+•	my_clip.py from part 3, and 
+•	an image of the lakes_myClip layer from part 3. 
+Your read me should explain briefly what you did in the lab and clearly list the contents of the repo and explain what it is so that someone who is not in the class can look at your repo and understand both the lab and the outputs. In example, “file.flooding.py is a Python script for use in ArcMap. The script takes some inputs and then outputs something else…”  
+
+
 ## THE DATA
 In our class OneDrive, find the [Lab_1_Geoprocessing_ArcGIS folder](https://clarkuedu-my.sharepoint.com/:f:/g/personal/shroberts_clarku_edu/EvQL9wW9T2NGuwJO7_q35tQBqIp4PtuxdLlEHoE_W33hnQ?e=2H3R2z). In this you'll find 3 sub-folders: 
 - _1. Lab 1 instructions_ contains a Word doc with all the tutorial instructions you need. 
