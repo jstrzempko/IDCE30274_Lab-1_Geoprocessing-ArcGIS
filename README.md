@@ -1,7 +1,7 @@
 # Lab 1: Goeprocessing in ArcGIS
 Due: 23rd October 2020
 
-This repo was created to submit files for Lab 1 for IDCE 30274 Computer Programming for GIS taught by Professor Shadrock Roberts. It contains: 
+This repo was created to submit files for Lab 1 for IDCE 30274 Computer Programming for GIS taught by Professor Shadrock Roberts at Clark University. It contains: 
 *	`flooding.py` from part 2
 *	`my_clip.py` from part 3
 *	an image of the `lakes_myClip.shp` layer from part 3
