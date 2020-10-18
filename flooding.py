@@ -27,6 +27,3 @@ arcpy.Clip_analysis(floodzones_shp, basin_shp, flood_Clip_shp, "")
 
 # Process: Select
 arcpy.Select_analysis(flood_Clip_shp, flooding_shp, "\"SFHA\" = 'IN'")
-
-
-Leave the lines of comment code, above, but add your personal details. Then replace these two lines of code with your new code! 
