@@ -1,4 +1,4 @@
-# Lab 1: Goeprocessing in ArcGIS
+# Lab 1: Geoprocessing in ArcGIS
 Due: 23rd October 2020
 
 This repo was created to submit files for Lab 1 for IDCE 30274 Computer Programming for GIS taught by Professor Shadrock Roberts at Clark University. It contains: 
