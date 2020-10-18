@@ -12,6 +12,3 @@ This lab was split into 3 parts. In Part 1, students examined tools and toolboxe
 
 # The Code
 The two scripts are meant to be run using shapefiles provided for this class with file paths and names specific to the student submission. If questions arise, users can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information.
-
-
-- an image of the lakes_myClip layer from part 3. If you don't know how to add an image to your Github readme you can [view this video](https://www.youtube.com/watch?reload=9&v=hHbWF1Bvgf4) or [see the instructions at the bottom of this readme](https://github.com/Shadrock/code-snippets).
